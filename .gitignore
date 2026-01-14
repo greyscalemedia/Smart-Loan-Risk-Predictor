@@ -1,0 +1,58 @@
+# =========================
+# Python
+# =========================
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# =========================
+# Virtual Environment
+# =========================
+venv/
+.env/
+.venv/
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# OS / Editor Files
+# =========================
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
+# =========================
+# Model Files (Large / Generated)
+# =========================
+*.pkl
+*.joblib
+
+# =========================
+# Data Files (If Sensitive / Large)
+# =========================
+# *.csv
+# *.xlsx
+
+# (Uncomment below if you want to keep sample CSVs)
+# !sample_data/*.csv
+
+# =========================
+# Streamlit
+# =========================
+.streamlit/
+
+# =========================
+# Logs
+# =========================
+*.log
+
+# =========================
+# Temporary / Cache
+# =========================
+*.tmp
+.cache/
