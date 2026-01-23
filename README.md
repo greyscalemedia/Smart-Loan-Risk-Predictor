@@ -160,5 +160,11 @@ streamlit run app.py
 - Database support
 - Cloud deployment (AWS / GCP)
 ---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
 👨‍💻 Author
 Piyush Kumar
